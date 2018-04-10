@@ -1,0 +1,28 @@
+{
+  "name": "ali-npm-1",
+  "version": "1.0.0",
+  "description": "First NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"NPM\");"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alikurniawan/npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "alikurniawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alikurniawan/npm/issues"
+  },
+  "homepage": "https://github.com/alikurniawan/npm#readme",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {
+    "ramda": "^0.25.0"
+  }
+}
